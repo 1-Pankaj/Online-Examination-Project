@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848522174713",
+    "project_id": "online-examination-697d4",
+    "storage_bucket": "online-examination-697d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848522174713:android:9aaae9c3a1ae62ebad8228",
+        "android_client_info": {
+          "package_name": "com.example.onlineexamination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848522174713-s8an3els5c2dnaj53bn1i6dme5jrtr20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wTEV0XgBXyRQHxMGcBTH9Uf31lnZ5l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848522174713-s8an3els5c2dnaj53bn1i6dme5jrtr20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

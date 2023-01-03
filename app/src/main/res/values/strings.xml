@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Online Examination</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">A simple application for competitive and regular exams. Pass exams, Level up and get Points for each attempted question.</string>
+    <string name="copyright">Copyright disclaimer under Section 107 of the Copyright Act: This disclaimer appears on content that uses someone else’s copyrighted content. Including this statement of “fair use” helps protect against copyright infringement claims.</string>
+    <string name="AppLoginDesc">Welcome to Online Examination Application, a platform for competetive Exams.</string>
+    <string name="verifyText"><![CDATA[Verify Email & Phone]]></string>
+    <string name="CharacterResource"><![CDATA[abcdefghijklmnopqrstuvwxyz!@#$%^&*()-=_[]{}|?/.>,<ABCDEFGHIJKLMNOPQRSTUVWXYZ]]></string>
+    <string name="nav_close">close</string>
+    <string name="nav_open">open</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:title="Resources">
+            <menu>
+                <item
+                    android:id="@+id/dashboard"
+                    android:title="Dashboard"
+                    android:icon="@drawable/home"/>
+                <item
+                    android:id="@+id/test"
+                    android:title="Tests"
+                    android:icon="@drawable/test"/>
+            </menu>
+        </item>
+    </group>
+
+
+    <group>
+        <item
+            android:title="Profile">
+            <menu>
+                <item
+                    android:id="@+id/profile"
+                    android:title="Profile"
+                    android:icon="@drawable/person_menu"/>
+                <item
+                    android:id="@+id/progress_profile"
+                    android:title="Progress"
+                    android:icon="@drawable/ic_baseline_query_stats_24"/>
+            </menu>
+        </item>
+    </group>
+
+
+    <group>
+        <item
+            android:title="More Options">
+            <menu>
+                <item
+                    android:title="Settings"
+                    android:icon="@drawable/settings"/>
+            </menu>
+        </item>
+    </group>
+
+
+    <group>
+        <item
+            android:title="About">
+            <menu>
+                <item
+                    android:id="@+id/info"
+                    android:title="About us"
+                    android:icon="@drawable/ic_baseline_info_24"/>
+            </menu>
+        </item>
+    </group>
+</menu>
