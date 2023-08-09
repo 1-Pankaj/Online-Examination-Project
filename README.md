@@ -3,3 +3,12 @@
 
 Online Examination application for android made with firebase realtime database and firebase authentication.
 Java is used for development of this application.
+
+Key Features : 
+1. Authenticate yourself with implemented firebase authentication.
+2. Check availability of tests in real time.
+3. Clean and interactive User Interface.
+4. Interactive points system.
+
+[Notes]
+This is one of my first works so obviously it has some flaws and sometimes major issues in application. This application won't be updated anymore but i will be working on newer projects.
